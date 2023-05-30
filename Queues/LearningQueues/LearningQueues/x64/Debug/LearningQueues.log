@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Workspace\CS2022\JinkeyProjects\cpp\Data structures and algorithms\Queues\LearningQueues\LearningQueues\queue.h(90,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+E:\Workspace\CS2022\JinkeyProjects\cpp\Data structures and algorithms\Queues\LearningQueues\LearningQueues\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LearningQueues.vcxproj -> E:\Workspace\CS2022\JinkeyProjects\cpp\Data structures and algorithms\Queues\LearningQueues\x64\Debug\LearningQueues.exe

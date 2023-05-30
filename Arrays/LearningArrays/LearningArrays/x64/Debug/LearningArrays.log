@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Workspace\CS2022\JinkeyProjects\cpp\Data structures and algorithms\Arrays\LearningArrays\LearningArrays\Source.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LearningArrays.vcxproj -> E:\Workspace\CS2022\JinkeyProjects\cpp\Data structures and algorithms\Arrays\LearningArrays\x64\Debug\LearningArrays.exe
